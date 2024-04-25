@@ -1,1 +1,1 @@
-# Apenas documentos de teste de funções em Python
+# Apenas documentos de testes de funções em Python
